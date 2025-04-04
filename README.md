@@ -2,8 +2,12 @@
 
 Your-Board is a simple and customizable Agile board application designed to help teams manage tasks and workflows efficiently. It provides an intuitive interface for organizing tasks, tracking progress, and collaborating with team members.
 
-## Features
 
+https://github.com/user-attachments/assets/01cc5c6f-0b8b-435a-b448-197867837f8a
+
+
+
+## Features
 - **Kanban Board**: Visualize tasks in columns for better organization.
 - **Sidebar Navigation**: Quickly switch between pages like Dashboard, Board, and Tasks.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
